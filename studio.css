@@ -1,0 +1,19 @@
+.heading{
+    color:black;
+    font-size: 35px;
+    text-align: center;
+}
+.across{
+    width:33.33%;
+    float:left;
+    text-align: center;
+    padding:50px;
+    box-sizing: border-box;
+}
+.across img{
+    width: auto;
+    height: 100px;
+}
+     p{
+       padding:20px;
+    }
