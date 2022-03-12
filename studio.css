@@ -5,6 +5,15 @@
     text-align: center;
     color: white;
     padding-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.aboutUs{
+    justify-content: center;
+    align-items: center;
+}
+h1,h2,h3,h4{
+    text-align: center;
 }
 .services{
     background-image: url("backgrounds/s_image.jpg");
