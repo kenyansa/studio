@@ -5,6 +5,13 @@
     text-align: center;
     color: white;
 }
+.services{
+    background-image: url("backgrounds/s_image.jpg");
+    height:100vh;
+    width:100%;
+    text-align: center;
+    color: white;
+}
 .whatWeDo{
     height: auto;
     width: 100%;
@@ -28,8 +35,9 @@
     width: auto;
     height: 100px;
 }
-     p{
-       padding:20px;
+p{
+    padding:20px;
+    text-align: center;
     }
 .portfolio{
     text-align: center;
@@ -38,4 +46,11 @@
 }
 .portfolio img{
     border-radius: 1em;
+}
+.contactUs{
+    background-image: url("backgrounds/c_image.jpg");
+    height:100vh;
+    width:100%;
+    text-align: center;
+    color: white;
 }
