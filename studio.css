@@ -51,4 +51,15 @@ p{
     width:100%;
     text-align: center;
     color: white;
+    padding: 30px;
 }
+#email, #name, textarea{
+    background: transparent;
+    color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 0.5em;
+}
+::placeholder {
+    color:white;
+    opacity: 1;
+  }
