@@ -15,8 +15,6 @@
 .whatWeDo{
     height: auto;
     width: 100%;
-    grid-template-columns: auto auto auto;
-    gap: 20px;
 }
 .heading{
     color:black;
