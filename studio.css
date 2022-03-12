@@ -50,11 +50,13 @@ p{
     }
 .portfolio{
     text-align: center;
-    width:100%
-    
+    width:100%;
 }
 .portfolio img{
     border-radius: 1em;
+}
+.portfolio img{
+    padding: 5px;
 }
 .contactUs{
     background-image: url("backgrounds/c_image.jpg");
@@ -73,4 +75,12 @@ p{
 ::placeholder {
     color:white;
     opacity: 1;
+  }
+  ul{
+    list-style: none;
+    display:flex;
+    align-items: center;
+    width:100%;
+    text-align:center;
+    padding-left: 30em;
   }
