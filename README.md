@@ -4,6 +4,7 @@ IP3 - Creating the Delani studio from a given template.
 
 ## Screeshots
 ![Apictorial for delani studio](screenshot/delani-studio.png)
+Landing page
 ## Contributors
 The project was developed by Justine Kenyansa alone, but in the future, it may incorporate the work of other developers.
 ## :flashlight: Description
